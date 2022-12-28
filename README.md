@@ -1,4 +1,9 @@
 # arabert-fast-bert-tunisian-restaurant-corpus
-Sentiment analysis
-#dataset  scrapping from Youtube  in tunisian dialect
-we used arabert algorithm for training model
+1. Sentiment analysis
+
+
+2. dataset  scrapping from Youtube  in tunisian dialect
+
+
+
+3. we used arabert algorithm for training model
